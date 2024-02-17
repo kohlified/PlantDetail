@@ -1,0 +1,92 @@
+[
+    {
+        "PlantID": "P001",
+        "Origin": "India",
+        "Synonym": "Angel's trumpet",
+        "CommonName": "Dhatura",
+        "Pictureofplant": "Dhatura metel",
+        "SpeciesName": "Datura metel L.",
+        "Plantpart": "Stem/ Leaf/ Root/ Flower/ Fruit/ Seed"
+    },
+    {
+        "PlantID": "P002",
+        "Origin": "India",
+        "Synonym": "Eclipta Prostrata",
+        "CommonName": "Bhangra",
+        "Pictureofplant": "Eclipta alba",
+        "SpeciesName": "Eclipta alba (L.) Hassk.",
+        "Plantpart": "Leaf/ Stem/ Root/ Aerial parts **"
+    },
+    {
+        "PlantID": "P003",
+        "Origin": "India",
+        "Synonym": "Emblica offici?lis",
+        "CommonName": "Amla",
+        "Pictureofplant": "Phyllanthus officiN/Alis",
+        "SpeciesName": "Phyllanthus emblica L.",
+        "Plantpart": "N/A"
+    },
+    {
+        "PlantID": "P004",
+        "Origin": "India",
+        "Synonym": "Tinospora sinensis (Lour.) Merr.",
+        "CommonName": "Giloy",
+        "Pictureofplant": "Tinospora cordifolia",
+        "SpeciesName": "Tinospora Cordifolia",
+        "Plantpart": "Stem/ Root"
+    },
+    {
+        "PlantID": "P005",
+        "Origin": "Asia Africa Europe",
+        "Synonym": "Red Spiderling/ Spreading Hogweed/ Tarvine",
+        "CommonName": "PuN/ArN/Ava",
+        "Pictureofplant": "Boerhavia diffusa",
+        "SpeciesName": "Boerhavia diffusa L.",
+        "Plantpart": "Root/ Leaves"
+    },
+    {
+        "PlantID": "P006",
+        "Origin": "India",
+        "Synonym": "Night-flowering jasmine and coral jasmine",
+        "CommonName": "Harshingar",
+        "Pictureofplant": "Nyctanthes arbor-tristis",
+        "SpeciesName": "Nyctanthes arbor-tristis L.",
+        "Plantpart": "Flower"
+    },
+    {
+        "PlantID": "P007",
+        "Origin": "Southeast Asia/ Africa/ Europe",
+        "Synonym": "Adraka/ Ginger Root",
+        "CommonName": "Ginger",
+        "Pictureofplant": "Zingiber officiN/Ale",
+        "SpeciesName": "Zingiber officiN/Ale",
+        "Plantpart": "Root"
+    },
+    {
+        "PlantID": "P008",
+        "Origin": "Mexico and Central America",
+        "Synonym": "Jatropha curcas L.",
+        "CommonName": "Ratanjyot",
+        "Pictureofplant": "Jatropha curcas",
+        "SpeciesName": "Jatropha curcas L.",
+        "Plantpart": "Root Bark/ Kernel/ Stem Bark/ Phytochemicals/ Root"
+    },
+    {
+        "PlantID": "P009",
+        "Origin": "India/ Southeast Asis",
+        "Synonym": "Bengal quince/ golden apple/ Japanese bitter orange/ stone apple or wood apple",
+        "CommonName": "Bael",
+        "Pictureofplant": "Aegle marmelos",
+        "SpeciesName": "Aegle marmelos",
+        "Plantpart": "Seed. Leaves"
+    },
+    {
+        "PlantID": "P010",
+        "Origin": "Mediterranean region of Europe and Northern Africa and western Asia.",
+        "Synonym": "Agnus castus/ Chasteberry/ Hemp tree/ Monk's pepper/ and Vitex.",
+        "CommonName": "Chaste Tree",
+        "Pictureofplant": "Vitex agnus castus",
+        "SpeciesName": "Vitex agnus-castus",
+        "Plantpart": "Leaves/ Flowering Twigs"
+    }
+]
