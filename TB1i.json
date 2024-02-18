@@ -1,0 +1,172 @@
+[
+    {
+        "Plant_ID": "P001",
+        "Origin": "India",
+        "Synonym": "Angel's trumpet",
+        "Common Name": "Dhatura",
+        "Picture of plant": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Datura_metel_%27Fastuosa%27_triple_flower.jpg",
+        "Species Name": "Datura metel L.",
+        "Plant part": "Stem/ Leaf/ Root/ Flower/ Fruit/ Seed",
+        "": ""
+    },
+    {
+        "Plant_ID": "P002",
+        "Origin": "India",
+        "Synonym": "Eclipta Prostrata",
+        "Common Name": "Bhangra",
+        "Picture of plant": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Eclipta_prostrata_at_Kadavoor.jpg",
+        "Species Name": "Eclipta alba (L.) Hassk.",
+        "Plant part": "Leaf/ Stem/ Root/ Aerial parts **",
+        "": ""
+    },
+    {
+        "Plant_ID": "P003",
+        "Origin": "India",
+        "Synonym": "Emblica offici?lis",
+        "Common Name": "Amla",
+        "Picture of plant": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Phyllanthus_officinalis.jpg",
+        "Species Name": "Phyllanthus emblica L.",
+        "Plant part": "N/A",
+        "": ""
+    },
+    {
+        "Plant_ID": "P004",
+        "Origin": "India",
+        "Synonym": "Tinospora sinensis (Lour.) Merr.",
+        "Common Name": "Giloy",
+        "Picture of plant": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tinospora_cordifolia.jpg",
+        "Species Name": "Tinospora Cordifolia",
+        "Plant part": "Stem/ Root",
+        "": ""
+    },
+    {
+        "Plant_ID": "P005",
+        "Origin": "Asia Africa Europe",
+        "Synonym": "Red Spiderling/ Spreading Hogweed/ Tarvine",
+        "Common Name": "PuN/ArN/Ava",
+        "Picture of plant": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Boerhavia_diffusa.jpg",
+        "Species Name": "Boerhavia diffusa L.",
+        "Plant part": "Root/ Leaves",
+        "": ""
+    },
+    {
+        "Plant_ID": "P006",
+        "Origin": "India",
+        "Synonym": "Night-flowering jasmine and coral jasmine",
+        "Common Name": "Harshingar",
+        "Picture of plant": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ginger_inflorescence.jpg",
+        "Species Name": "Nyctanthes arbor-tristis L.",
+        "Plant part": "Flower",
+        "": ""
+    },
+    {
+        "Plant_ID": "P007",
+        "Origin": "Southeast Asia/ Africa/ Europe",
+        "Synonym": "Adraka/ Ginger Root",
+        "Common Name": "Ginger",
+        "Picture of plant": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ginger_inflorescence.jpg",
+        "Species Name": "Zingiber officiN/Ale",
+        "Plant part": "Root",
+        "": ""
+    },
+    {
+        "Plant_ID": "P008",
+        "Origin": "Mexico and Central America",
+        "Synonym": "Jatropha curcas L.",
+        "Common Name": "Ratanjyot",
+        "Picture of plant": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jatropha_curcas1_henning.jpg",
+        "Species Name": "Jatropha curcas L.",
+        "Plant part": "Root Bark/ Kernel/ Stem Bark/ Phytochemicals/ Root",
+        "": ""
+    },
+    {
+        "Plant_ID": "P009",
+        "Origin": "India/ Southeast Asis",
+        "Synonym": "Bengal quince/ golden apple/ Japanese bitter orange/ stone apple or wood apple",
+        "Common Name": "Bael",
+        "Picture of plant": "https://en.wikipedia.org/wiki/Aegle_marmelos#/media/File:Bael_(Aegle_marmelos)_tree_at_Narendrapur_W_IMG_4116.jpg",
+        "Species Name": "Aegle marmelos",
+        "Plant part": "Seed. Leaves",
+        "": ""
+    },
+    {
+        "Plant_ID": "P010",
+        "Origin": "Mediterranean region of Europe and Northern Africa and western Asia.",
+        "Synonym": "Agnus castus/ Chasteberry/ Hemp tree/ Monk's pepper/ and Vitex.",
+        "Common Name": "Chaste Tree",
+        "Picture of plant": "https://en.wikipedia.org/wiki/Vitex_agnus-castus#/media/File:Vitex-agnus-castus-flowers.JPG",
+        "Species Name": "Vitex agnus-castus",
+        "Plant part": "Leaves/ Flowering Twigs",
+        "": ""
+    },
+    {
+        "Plant_ID": "",
+        "Origin": "",
+        "Synonym": "",
+        "Common Name": "",
+        "Picture of plant": "",
+        "Species Name": "",
+        "Plant part": "",
+        "": ""
+    },
+    {
+        "Plant_ID": "",
+        "Origin": "",
+        "Synonym": "",
+        "Common Name": "",
+        "Picture of plant": "",
+        "Species Name": "",
+        "Plant part": "",
+        "": ""
+    },
+    {
+        "Plant_ID": "",
+        "Origin": "",
+        "Synonym": "",
+        "Common Name": "",
+        "Picture of plant": "",
+        "Species Name": "",
+        "Plant part": "",
+        "": ""
+    },
+    {
+        "Plant_ID": "",
+        "Origin": "",
+        "Synonym": "",
+        "Common Name": "",
+        "Picture of plant": "",
+        "Species Name": "",
+        "Plant part": "",
+        "": ""
+    },
+    {
+        "Plant_ID": "",
+        "Origin": "",
+        "Synonym": "",
+        "Common Name": "",
+        "Picture of plant": "",
+        "Species Name": "",
+        "Plant part": "",
+        "": ""
+    },
+    {
+        "Plant_ID": "",
+        "Origin": "",
+        "Synonym": "",
+        "Common Name": "",
+        "Picture of plant": "",
+        "Species Name": "",
+        "Plant part": "",
+        "": ""
+    },
+    {
+        "Plant_ID": "",
+        "Origin": "",
+        "Synonym": "",
+        "Common Name": "",
+        "Picture of plant": "",
+        "Species Name": "",
+        "Plant part": "",
+        "": ""
+    }
+]
